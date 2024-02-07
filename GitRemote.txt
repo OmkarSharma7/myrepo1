@@ -1,0 +1,6 @@
+3. git config --global user.name "OmkarSharma7"
+git config --global user.email "omkarsharma2026@gmail.com"
+
+4. git push -u origin master
+	4.1 username? -> OmkarSharma7
+	4.2 password? -> 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    // token classic
